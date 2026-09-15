@@ -11,4 +11,10 @@ This repository contains my first C programming project set up with VS Code and 
 1. Open terminal in VS Code.
 2. Compile using GCC: `gcc hello.c -o hello`
 3. Execute the binary: `.\hello.exe`
-4.
+
+
+## Collaboration Log
+* **Partner**: <Janhavi Vishwas Belekar> (@<jaanvibelekarr555-hash>)
+* **Feature Built**: Added `greet()` function in `hello.c` using Live Share.
+* **GitLens/Live Share Reflection**: GitLens provides instant line-by-line commit authorship, while Live Share enables real-time co-debugging.
+*
