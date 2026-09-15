@@ -17,4 +17,6 @@ This repository contains my first C programming project set up with VS Code and 
 * **Partner**: <Janhavi Vishwas Belekar> (@<jaanvibelekarr555-hash>)
 * **Feature Built**: Added `greet()` function in `hello.c` using Live Share.
 * **GitLens/Live Share Reflection**: GitLens provides instant line-by-line commit authorship, while Live Share enables real-time co-debugging.
-*
+
+## Projects
+* **Hello World C**: A baseline C repository demonstrating GCC compilation, GitLens tracking, and GitHub workflows.
